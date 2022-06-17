@@ -1,2 +1,3 @@
 # Computing_offloading
-Select the method to executed and run the python file
+Select the algorithm to executed  
+run the python file
